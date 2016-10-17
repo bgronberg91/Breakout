@@ -1,0 +1,22 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  /*background: url(brick-illustrations_thumb.jpg);*/
+  background-color: coral;
+}
+
+#breakout {
+  font-family: 'Press Start 2P';
+  font-size: 2.5em;
+  color: #0095DD;
+  text-shadow: 2px 2px aquamarine;
+  text-align: center;
+  margin-top: 2%;
+}
+
+#myCanvas {
+  background: rgba(240, 240, 240, 1);
+  display: block;
+  margin: 2% auto;
+}
